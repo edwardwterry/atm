@@ -1,0 +1,22 @@
+button {
+    height: 100px;
+    width: 300px;
+    margin: 50px;
+}
+
+div#atm {
+    display: inline-block;
+    position: absolute;
+    left: 50%;
+    transform: translate(-50%, 0%);        
+}
+
+div#status {
+    position: absolute;
+    top: 65%;
+    left: 45%;
+    transform: translate(-55%, -35%);   
+    text-align: center;
+    font-family: 'Roboto';
+    font-size: 16px; 
+}
