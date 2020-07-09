@@ -1,7 +1,18 @@
+body {
+    background-color: black;
+}
+
 button {
     height: 100px;
     width: 300px;
     margin: 50px;
+    font-family: 'Roboto';
+    font-size: 20px; 
+}
+
+div#buttons {
+    position: relative; 
+    left:27%;
 }
 
 div#atm {
